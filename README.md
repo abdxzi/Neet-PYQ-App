@@ -11,9 +11,9 @@ The Neet PYQ App is an Android application tailored to assist NEET entrance exam
 
 <div align="center">
   <div style="display: flex;flex-direction:row">
-    <img src='https://i.imgur.com/u8ODxfK.jpg' />    
-    <img src='https://i.imgur.com/pcAQSut.jpg' />
-    <img src='https://i.imgur.com/MZke5t6.jpg' />
+    <img src='https://i.imgur.com/u8ODxfK.jpg' width=300 />    
+    <img src='https://i.imgur.com/pcAQSut.jpg' width=300 />
+    <img src='https://i.imgur.com/MZke5t6.jpg' width=300 />
   </div>
 </div>
 
