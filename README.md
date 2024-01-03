@@ -1,16 +1,37 @@
-# neet_app
+---
 
-A new Flutter project.
+# Neet PYQ App
 
-## Getting Started
+The Neet PYQ App is an Android application tailored to assist NEET entrance exam aspirants in their preparation. This app consolidates previous year NEET question papers in one convenient platform, offering year-wise solved papers, chapter-wise solutions, unsolved papers, NEET syllabus details, and more.
 
-This project is a starting point for a Flutter application.
+**Built with** ❤ in **Flutter**
 
-A few resources to get you started if this is your first Flutter project:
+## App Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <div style="display: flex;flex-direction:row">
+    <img src='https://i.imgur.com/u8ODxfK.jpg' />    
+    <img src='https://i.imgur.com/pcAQSut.jpg' />
+    <img src='https://i.imgur.com/MZke5t6.jpg' />
+  </div>
+</div>
+
+
+## Features
+
+- **Comprehensive Question Bank**: Access a collection of previous year NEET question papers.
+- **Year-wise Solutions**: View solved papers categorized by year for efficient revision.
+- **Chapter-wise Solutions**: Explore solutions organized by specific chapters for targeted study.
+- **NEET Syllabus**: Access the NEET syllabus to streamline preparation.
+
+
+## Play Store Availability
+
+Coming soon on the Google Play Store!
+
+<br><br>
+<br>
+
+
+---
